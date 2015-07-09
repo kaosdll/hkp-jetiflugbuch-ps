@@ -1,6 +1,6 @@
 ###################################################################################################################
 # hkp-jetiflugbuch-ps ; Version 0.1 vom 23.06.2015 ; Manuel Kuss (manuel@hangkantenpolitur.de)
-# GitHub: https://github.com/kaosdll/hkp_jetilog_flugbuch ; GNU General Public License v2.0
+# GitHub: https://github.com/kaosdll/hkp-jetiflugbuch-ps ; GNU General Public License v2.0
 ###################################################################################################################
 $logpath = "*"
 $minsize = 1024 # Mindestgröße der Logdatei in Bytes
